@@ -9,6 +9,7 @@ The problems I solved were in regards to the missing alt tags from images. The f
 # What did I learn?
 I gained the knowledge of how effective it creating websites with alt tags for screenreaders.
 # Screenshot
+![Screenshot](https://user-images.githubusercontent.com/118403195/216751183-c3022f67-9870-43a1-a4db-7eaa3120edda.png)
 
 # Link to Webpage
-
+https://eshiff.github.io/horiseionrefactor/
